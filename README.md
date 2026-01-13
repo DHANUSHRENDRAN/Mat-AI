@@ -34,7 +34,7 @@ To access the live version of the project:
    - Copy the URL from the browser to access or share the project.
 
 ---
-
+## Quick Trail :  'https://replit.com/@matai2k25/MatAI-Devfolio?v=1'
 ## Overview
 
 MatAI is designed to make math easy to understand. Whether you're a student needing help with algebra, calculus, or trigonometry, or a teacher looking for an AI assistant, MatAI provides clear, step-by-step solutions and insights into various mathematical problems.
